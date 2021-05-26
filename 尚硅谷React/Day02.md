@@ -61,9 +61,3 @@ event.preventDefault()
   componentWillReceiveProps()	//
   ```
 
-
-
-#### 虚拟DOM和DOM Diff算法
-
-- 
-
