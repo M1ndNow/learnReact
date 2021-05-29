@@ -2,7 +2,7 @@
 
 
 
-#### 给组件类指定属性
+#### 给组件类指定属性类型
 
 ```
 import PropTypes from 'prop-types'  
