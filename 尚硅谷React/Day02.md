@@ -49,7 +49,7 @@ event.preventDefault()
   componentWillUnmount()	// 组件卸载前一刻执行
   ```
 
-- ##### 重要的Hooks
+- ##### 重要的钩子
 
   ```
   render()		// 初始化渲染或更新渲染时调用
