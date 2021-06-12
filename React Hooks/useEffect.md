@@ -24,7 +24,7 @@ function App(){
 	},[])		// 使用return()，表示useEffect相当于componentWillUnmount
 				// 即函数组件即将销毁时，执行回调函数
 				
-	// 结合使用
+	// 组合使用
 	useEffect(()=>{
 		...
 		return (
