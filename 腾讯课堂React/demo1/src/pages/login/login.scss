@@ -1,0 +1,29 @@
+
+.login-container{
+    text-align: center;
+    height: 100vh;
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h1{
+        margin-top: 150px;
+        font-weight: bold;
+    }
+
+    .ant-input{
+        display: block;
+        width: 300px;
+        height: 50px;
+        font-size: 1.8em;
+        text-align: center;
+        margin: 12px 0 24px 0;
+    }
+
+    button .ant-button{
+        display: block;
+        width: 300px;
+    }
+}
